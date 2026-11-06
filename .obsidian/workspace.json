@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 3 Further in Linux.md",
+                "file": "Day1_Introcuction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 Further in Linux"
+              "title": "Day1_Introcuction"
             }
           }
         ],
@@ -231,11 +231,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "73ad28ac3f77559c",
+  "active": "901690fbd20e1a5a",
   "lastOpenFiles": [
-    "Day 2 Linux for users.md",
-    "Day 3 Further in Linux.md",
+    "Untitled.md",
     "Day1_Introcuction.md",
+    "Day 3 Further in Linux.md",
+    "Day 2 Linux for users.md",
     "README.md"
   ]
 }
